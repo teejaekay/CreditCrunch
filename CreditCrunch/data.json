@@ -1,0 +1,1405 @@
+
+*** Used For Reference ***
+
+{
+   "total_results":2882,
+   "results":[
+      {
+         "_id":"5e690b260b077d5830cadae0",
+         "title":"Avenue Premier",
+         "original_title":"Avenue Premier",
+         "fee":0,
+         "url":"https://onlineaccess2.mycreditcard.cc/avenue",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"No rewards outside of Avenue purchases."
+            },
+            {
+               "title":"Earn 1 point for every $1 spent and receive a $10 Reward Certificate for every 200 points"
+            },
+            {
+               "title":"Birthday offer: 40% off any one item"
+            },
+            {
+               "title":"Advanced notice of sales and special events"
+            }
+         ],
+         "earnings":[
+            {
+               "points":0,
+               "description":"No rewards outside of Avenue purchases.",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685f9fe89bb63d3d6b255e",
+            "name":"Comenity Bank",
+            "full_name":"Comenity Bank",
+            "address":"One Righter Parkway, Suite 100, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"27499",
+            "website":"http://www.comenity.net"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc21",
+         "title":"Chase Freedom®",
+         "original_title":"Chase Freedom®",
+         "fee":0,
+         "url":"https://creditcards.chase.com/cash-back-credit-cards/freedom/card",
+         "foreign_fee":true,
+         "rewards_type":1,
+         "rewards":[
+            {
+               "title":"You'll enjoy new 5% categories every 3 months like Gas stations, Restaurants and Amazon.com. It's free and easy to activate your bonus each quarter!"
+            },
+            {
+               "title":"Unlimited 1% Cash Back on all other purchases"
+            },
+            {
+               "title":"No annual fee and rewards never expire as long as your account is open"
+            },
+            {
+               "title":"Earn a $200 Bonus after you spend $500 on purchases in your first 3 months from account opening"
+            },
+            {
+               "title":"Earn 5% back with Lyft through March 2022"
+            },
+            {
+               "title":"Earn 5% back at Amazon and Whole Foods on up to $1,500 in purchases."
+            },
+            {
+               "title":"0% Intro APR for 15 months on purchases and balance transfers. After the intro period, a variable APR of 13.99-22.99%"
+            }
+         ],
+         "earnings":[
+            {
+               "points":5,
+               "description":"Earn 5% back at Amazon and Whole Foods on up to $1,500 in purchases.",
+               "category":12
+            },
+            {
+               "points":1,
+               "description":"Unlimited 1% Cash Back on all other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":200,
+            "spend":500,
+            "currency":"USD",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc27",
+         "title":"Ink Business Unlimited Credit Card",
+         "original_title":"Chase Ink Business Unlimited",
+         "nickname":"CIU",
+         "fee":0,
+         "url":"https://creditcards.chase.com/small-business-credit-cards/ink-unlimited",
+         "foreign_fee":true,
+         "rewards_type":1,
+         "rewards":[
+            {
+               "title":"No annual fee."
+            },
+            {
+               "title":"Earn unlimited 1.5% Cash Back rewards on every business purchase."
+            },
+            {
+               "title":"Earn 5% cash back with Lyft through March 2022."
+            },
+            {
+               "title":"$500 bonus cash back after you spend $3,000 on purchases in the first 3 months after account opening."
+            }
+         ],
+         "earnings":[
+            {
+               "points":1.5,
+               "description":"Earn unlimited 1.5% Cash Back rewards on every purchase made for your business.",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":500,
+            "spend":3000,
+            "currency":"USD",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc2c",
+         "title":"Chase Sapphire Preferred Card",
+         "original_title":"Chase Sapphire Preferred",
+         "nickname":"CSP",
+         "fee":95,
+         "url":"https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+         "foreign_fee":false,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"Premium Travel and Purchase Protection Benefits, including Trip Cancellation/Trip Interruption Insurance, Auto Rental Collision Damage Waiver, Purchase Protection and more"
+            },
+            {
+               "title":"No foreign transaction fees, plus chip-enabled for enhanced security and wider acceptance"
+            },
+            {
+               "title":"Introductory Annual Fee of $0 the first year, then $95"
+            },
+            {
+               "title":"Earn 5,000 bonus points after you add the first authorized user and make a purchase in the first 3 months from account opening"
+            },
+            {
+               "title":"5X points with Lyft through March 2022"
+            },
+            {
+               "title":"2X points on travel and dining at restaurants & 1 point per dollar spent on all other purchases"
+            },
+            {
+               "title":"24/7 direct access to dedicated customer service specialists"
+            },
+            {
+               "title":"1:1 point transfer to leading frequent travel programs at full value — that means 1,000 Chase Ultimate Rewards points equal 1,000 partner miles/points"
+            }
+         ],
+         "earnings":[
+            {
+               "points":2,
+               "description":"2 points per dollar spent on travel",
+               "category":1
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent on travel",
+               "category":3
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent on travel",
+               "category":10
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent on restaurants",
+               "category":14
+            },
+            {
+               "points":1,
+               "description":"1 point per dollar spent on all other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":60000,
+            "spend":4000,
+            "currency":"points",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc20",
+         "title":"Chase Freedom Unlimited",
+         "original_title":"Chase Freedom Unlimited",
+         "fee":0,
+         "url":"https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+         "foreign_fee":true,
+         "rewards_type":1,
+         "rewards":[
+            {
+               "title":"No annual fee."
+            },
+            {
+               "title":"Earn unlimited 1.5% cash back on every purchase."
+            },
+            {
+               "title":"Earn 5% cash back with Lyft through March 2022."
+            }
+         ],
+         "earnings":[
+            {
+               "points":1.5,
+               "description":"1.5% cash back on all purchases.",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":150,
+            "spend":500,
+            "currency":"USD",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc26",
+         "title":"Ink Business Preferred Credit Card",
+         "original_title":"Chase Ink Business Preferred",
+         "fee":95,
+         "url":"https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
+         "foreign_fee":false,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"Points are worth 25% more when you redeem for travel through Chase Ultimate Rewards®. For example, 80,000 points are worth $1,000 toward travel."
+            },
+            {
+               "title":"Earn unlimited 1 Point Per $1 spent on all other purchases. Points do not expire as long as your account is open."
+            },
+            {
+               "title":"Earn 5 points per $1 spent with Lyft through March 2022"
+            },
+            {
+               "title":"Earn 3 points per $1 on the first $150,000 spent in combined purchases on travel, shipping purchases, Internet, cable and phone services, and on advertising purchases made with social media sites and search engines each account anniversary year."
+            },
+            {
+               "title":"80,000 bonus points after you spend $5,000 on purchases in the first 3 months after account opening."
+            }
+         ],
+         "earnings":[
+            {
+               "points":3,
+               "description":"Earn 3 points per $1 on the first $150,000 spent in combined purchases on travel, shipping purchases, Internet, cable and phone services, and on advertising purchases made with social media sites and search engines each account anniversary year.",
+               "category":1
+            },
+            {
+               "points":3,
+               "description":"Earn 3 points per $1 on the first $150,000 spent in combined purchases on travel, shipping purchases, Internet, cable and phone services, and on advertising purchases made with social media sites and search engines each account anniversary year.",
+               "category":2
+            },
+            {
+               "points":3,
+               "description":"Earn 3 points per $1 on the first $150,000 spent in combined purchases on travel, shipping purchases, Internet, cable and phone services, and on advertising purchases made with social media sites and search engines each account anniversary year.",
+               "category":3
+            },
+            {
+               "points":3,
+               "description":"Earn 3 points per $1 on the first $150,000 spent in combined purchases on travel, shipping purchases, Internet, cable and phone services, and on advertising purchases made with social media sites and search engines each account anniversary year.",
+               "category":10
+            },
+            {
+               "points":3,
+               "description":"Earn 3 points per $1 on the first $150,000 spent in combined purchases on travel, shipping purchases, Internet, cable and phone services, and on advertising purchases made with social media sites and search engines each account anniversary year.",
+               "category":13
+            },
+            {
+               "points":1,
+               "description":"Earn unlimited 1 Point Per $1 spent on all other purchases. Points do not expire as long as your account is open.",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":80000,
+            "spend":5000,
+            "currency":"points",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc22",
+         "title":"Chase Freedom® (Old MasterCard)",
+         "original_title":"Chase Freedom® (Old MasterCard)",
+         "fee":0,
+         "url":"",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"Unlimited 1% Cash Back on all other purchases."
+            }
+         ],
+         "earnings":[
+            {
+               "points":5,
+               "description":"5 points per dollar spent on restaurants this quarter after activating.",
+               "category":16
+            }
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc2d",
+         "title":"Chase Sapphire Reserve",
+         "original_title":"Chase Sapphire Reserve",
+         "nickname":"CSR",
+         "fee":550,
+         "url":"https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve",
+         "foreign_fee":false,
+         "rewards_type":15,
+         "rewards":[
+            {
+               "title":"Trip Delay Reimbursement: If your common carrier travel is delayed more than 6 hours or requires an overnight stay, you and your family are covered for unreimbursed expenses, such as meals and lodging, up to $500 per ticket."
+            },
+            {
+               "title":"Trip Cancellation / Trip Interruption Insurance"
+            },
+            {
+               "title":"Special car rental privileges: Enroll in leading car rental rewards programs from National Car Rental, Avis, and Silvercar"
+            },
+            {
+               "title":"Roadside Assistance: If you have a roadside emergency, you can call for a tow, jumpstart, tire change, locksmith or gas. You’re covered up to $50 per incident 4 times a year."
+            },
+            {
+               "title":"Receive a statement credit of up to $100 every 4 years as reimbursement for the application fee charged to your card on Global Entry or TSA Pre✓"
+            },
+            {
+               "title":"Priority Pass Select membership"
+            },
+            {
+               "title":"Lost Luggage Reimbursement: If you or an immediate family member check or carry on luggage that is damaged or lost by the carrier, you're covered up to $3,000 per passenger."
+            },
+            {
+               "title":"Free DashPass subscription for DoorDash after activating by 12/31/21"
+            },
+            {
+               "title":"Baggage Delay Insurance: Reimburses you for essential purchases like toiletries and clothing for baggage delays over 6 hours by passenger carrier up to $100 a day for 5 days."
+            },
+            {
+               "title":"Auto Rental Collision Damage Waiver"
+            },
+            {
+               "title":"50,000 bonus points after you spend $4,000 on purchases in the first 3 months from account opening."
+            },
+            {
+               "title":"50% more in travel redemption when you redeem through the Chase Ultimate Rewards portal"
+            },
+            {
+               "title":"3X Points on Travel Worldwide, immediately after earning your $300 annual travel credit."
+            },
+            {
+               "title":"3X Points on Dining at Restaurants Worldwide."
+            },
+            {
+               "title":"10X Points with Lyft"
+            },
+            {
+               "title":"1 year complimentary Lyft Pink subscription"
+            },
+            {
+               "title":"$60 per year credit at DoorDash in 2020, and again in 2021"
+            },
+            {
+               "title":"$300 Annual Travel Credit"
+            }
+         ],
+         "earnings":[
+            {
+               "points":3,
+               "description":"3X Points on Travel Worldwide, immediately after earning your $300 annual travel credit.",
+               "category":1
+            },
+            {
+               "points":3,
+               "description":"3X Points on Travel Worldwide, immediately after earning your $300 annual travel credit.",
+               "category":3
+            },
+            {
+               "points":3,
+               "description":"3X Points on Travel Worldwide, immediately after earning your $300 annual travel credit.",
+               "category":10
+            },
+            {
+               "points":3,
+               "description":"3X Points on Dining at Restaurants Worldwide.",
+               "category":14
+            },
+            {
+               "points":1,
+               "description":"Earn 1 point per dollar spent on all other purchases.",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":50000,
+            "spend":4000,
+            "currency":"points",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc2f",
+         "title":"Chase Sapphire® Card",
+         "original_title":"Chase Sapphire® Card",
+         "fee":0,
+         "url":"https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=F45J&CELL=6H8X&AFFID=vmz0MzlgTQ8-z2u1G5.0lJsY2ONvdJtRmA&pvid=20130324-760d2a4a764d633e7910&jp_cmp=cc/253243/aff/3-10001939/na",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"2X points on dining at restaurants."
+            },
+            {
+               "title":"1 point per dollar spent on all other purchases."
+            }
+         ],
+         "earnings":[
+            {
+               "points":2,
+               "description":"2X points on dining at restaurants.",
+               "category":14
+            }
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      {
+         "_id":"5e690b260b077d5830cade7f",
+         "title":"Ink with Chase Exclusives (Legacy)",
+         "original_title":"Ink with Chase Exclusives (Legacy)",
+         "fee":0,
+         "url":"",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"Earn 2 Chase Ultimate Rewards points per dollar spent on airfare and hotel accommodations booked through Chase Ultimate Rewards."
+            },
+            {
+               "title":"Earn 1 Chase Ultimate Reward point per dollar spent, plus an additional 20% bonus on eligible purchases."
+            }
+         ],
+         "earnings":[
+            
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cade7b",
+         "title":"Ink Business Cash Credit Card",
+         "original_title":"Ink Business Cash Credit Card",
+         "fee":0,
+         "url":"https://creditcards.chase.com/small-business-credit-cards/ink-cash",
+         "foreign_fee":true,
+         "rewards_type":1,
+         "rewards":[
+            {
+               "title":"No annual fee"
+            },
+            {
+               "title":"Earn 5% cash back with Lyft through March 2022"
+            },
+            {
+               "title":"Earn 5% cash back on the first $25,000 spent in combined purchases at office supply stores and on internet, cable and phone services each account anniversary year"
+            },
+            {
+               "title":"Earn 2% cash back on the first $25,000 spent in combined purchases at gas stations and restaurants each account anniversary year"
+            },
+            {
+               "title":"Earn 1% cash back on all other purchases"
+            },
+            {
+               "title":"$500 bonus cash back after you spend $3,000 on purchases in the first 3 months from account opening"
+            }
+         ],
+         "earnings":[
+            {
+               "points":5,
+               "description":"Earn 5% cash back on the first $25,000 spent in combined purchases at office supply stores and on internet, cable and phone services each account anniversary year",
+               "category":2
+            },
+            {
+               "points":5,
+               "description":"Earn 5% cash back on the first $25,000 spent in combined purchases at office supply stores and on internet, cable and phone services each account anniversary year",
+               "category":11
+            },
+            {
+               "points":5,
+               "description":"Earn 5% cash back on the first $25,000 spent in combined purchases at office supply stores and on internet, cable and phone services each account anniversary year",
+               "category":13
+            },
+            {
+               "points":5,
+               "description":"Earn 5% cash back on the first $25,000 spent in combined purchases at office supply stores and on internet, cable and phone services each account anniversary year",
+               "category":17
+            },
+            {
+               "points":2,
+               "description":"Earn 2% cash back on the first $25,000 spent in combined purchases at gas stations and restaurants each account anniversary year",
+               "category":8
+            },
+            {
+               "points":2,
+               "description":"Earn 2% cash back on the first $25,000 spent in combined purchases at gas stations and restaurants each account anniversary year",
+               "category":14
+            },
+            {
+               "points":1,
+               "description":"Earn 1% cash back on all other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":500,
+            "spend":3000,
+            "currency":"USD",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc2a",
+         "title":"Chase Private Client Sapphire Preferred® Card",
+         "original_title":"Chase Private Client Sapphire Preferred® Card",
+         "fee":95,
+         "url":"https://creditcards.chase.com/credit-cards/sapphire-preferred-card.aspx",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"2X points on travel and dining at restaurants."
+            },
+            {
+               "title":"1X point per dollar spent on all other purchases."
+            }
+         ],
+         "earnings":[
+            
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadaa7",
+         "title":"American Express Green Card",
+         "original_title":"American Express® Green Card",
+         "nickname":"AMEX",
+         "fee":150,
+         "url":"https://www.americanexpress.com/us/credit-cards/card/green/",
+         "foreign_fee":false,
+         "rewards_type":9,
+         "rewards":[
+            {
+               "title":"3x Membership Rewards points on travel including flights, hotels, transit, taxis, tours, car rentals, and ridesharing services"
+            },
+            {
+               "title":"3x Membership Rewards points at restaurants worldwide"
+            },
+            {
+               "title":"1x Membership Rewards points on other purchases"
+            },
+            {
+               "title":"$100 LoungeBuddy Credit per calendar year"
+            },
+            {
+               "title":"$100 CLEAR Credit per calendar year"
+            }
+         ],
+         "earnings":[
+            {
+               "points":3,
+               "description":"3x Membership Rewards points on travel including flights, hotels, transit, taxis, tours, and ridesharing services",
+               "category":1
+            },
+            {
+               "points":3,
+               "description":"3x Membership Rewards points on travel including flights, hotels, transit, taxis, tours, and ridesharing services",
+               "category":10
+            },
+            {
+               "points":3,
+               "description":"3x Membership Rewards points on travel including car rentals",
+               "category":3
+            },
+            {
+               "points":3,
+               "description":"3x Membership Rewards points at restaurants worldwide",
+               "category":14
+            },
+            {
+               "points":1,
+               "description":"1x Membership Rewards points on other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":30000,
+            "spend":2000,
+            "currency":"points",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685fbae89bb63d3d6b256f",
+            "name":"American Express (AmEx)",
+            "full_name":"American Express (AmEx)",
+            "address":"",
+            "insurance_type":"",
+            "insurance_id":"",
+            "phone":"",
+            "website":""
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc2b",
+         "title":"Chase Sapphire",
+         "original_title":"Chase Sapphire",
+         "fee":0,
+         "url":"",
+         "foreign_fee":false,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"Premium Travel and Purchase Protection Benefits, including Trip Cancellation/Trip Interruption Insurance, Auto Rental Collision Damage Waiver, Purchase Protection and more"
+            },
+            {
+               "title":"No foreign transaction fees, plus chip-enabled for enhanced security and wider acceptance"
+            },
+            {
+               "title":"Introductory Annual Fee of $0 the first year, then $95"
+            },
+            {
+               "title":"Earn 5,000 bonus points after you add the first authorized user and make a purchase in the first 3 months from account opening"
+            },
+            {
+               "title":"Earn 40,000 bonus points when you spend $4,000 on purchases in the first 3 months from account opening. That's $500 in travel when you redeem through Chase Ultimate Rewards®"
+            },
+            {
+               "title":"2X points on travel and dining at restaurants & 1 point per dollar spent on all other purchases"
+            },
+            {
+               "title":"24/7 direct access to dedicated customer service specialists"
+            },
+            {
+               "title":"1:1 point transfer to leading frequent travel programs at full value — that means 1,000 Chase Ultimate Rewards points equal 1,000 partner miles/points"
+            }
+         ],
+         "earnings":[
+            {
+               "points":2,
+               "description":"2 points per dollar spent on travel",
+               "category":1
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent on travel",
+               "category":3
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent on travel",
+               "category":10
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent on restaurants",
+               "category":14
+            },
+            {
+               "points":1,
+               "description":"1 point per dollar spent on all other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadc28",
+         "title":"Chase Ink Plus® Business Credit Card",
+         "original_title":"Chase Ink Plus® Business Credit Card",
+         "fee":95,
+         "url":"https://creditcards.chase.com/ink-business-credit-cards/mobile/ink-plus-card",
+         "foreign_fee":false,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"No foreign transaction fees."
+            },
+            {
+               "title":"Free employee cards"
+            },
+            {
+               "title":"Earn 60,000 bonus points after you spend $5,000 on purchases in the first 3 months from account opening. That's $625 toward travel when you redeem through Chase Ultimate Rewards."
+            },
+            {
+               "title":"Earn 5X points per $1 on the first $50,000 spent in combined purchases at office supply stores and on cellular phone, landline, internet and cable TV services each account anniversary year."
+            },
+            {
+               "title":"Earn 5 points per $1 spent with Lyft through March 2022"
+            },
+            {
+               "title":"Earn 2X points per $1 on the first $50,000 spent in combined purchases at gas stations and hotel accommodations when purchased directly with the hotel each account anniversary year."
+            },
+            {
+               "title":"Chip-enabled for enhanced security at home and abroad when you make purchases at chip-enabled card readers"
+            },
+            {
+               "title":"$0 Intro Annual Fee for the first year, then $95"
+            }
+         ],
+         "earnings":[
+            {
+               "points":5,
+               "description":"5 points per dollar spent on television",
+               "category":2
+            },
+            {
+               "points":5,
+               "description":"5 points per dollar spent on office supplies",
+               "category":11
+            },
+            {
+               "points":5,
+               "description":"5 points per dollar spent on phone",
+               "category":13
+            },
+            {
+               "points":5,
+               "description":"5 points per dollar spent on internet",
+               "category":17
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent at gas stations",
+               "category":8
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent on hotels",
+               "category":10
+            },
+            {
+               "points":1,
+               "description":"1 point per dollar spent on all other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685f99e89bb63d3d6b255b",
+            "name":"Chase",
+            "full_name":"Chase Bank USA",
+            "address":"201 North Walnut Street, Wilmington, DE",
+            "insurance_type":"FDIC",
+            "insurance_id":"23702",
+            "website":"http://www.chase.com"
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cada9a",
+         "title":"American Express The Platinum Card®",
+         "original_title":"American Express Platinum (Personal)",
+         "nickname":"AMEX",
+         "fee":550,
+         "url":"https://www.americanexpress.com/us/credit-cards/card/platinum/",
+         "foreign_fee":false,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"Up to a $200 Airline Fee Credit Annually."
+            },
+            {
+               "title":"To receive the statement credit, you need to select a qualifying airline."
+            },
+            {
+               "title":"There are no foreign transaction fees with purchases made on your Platinum Card."
+            },
+            {
+               "title":"Platinum Card Concierge is your personal resource to help secure a last minute restaurant reservation, or shop for a hard-to-find gift."
+            },
+            {
+               "title":"Get up to $100 in statement credits annually for purchases at Saks Fifth Avenue or saks.com on your Platinum Card. That's up to $50 in statement credits from January through June and up to $50 in statement credits from July through December. Enrollment required."
+            },
+            {
+               "title":"Fine Hotels & Resorts Program"
+            },
+            {
+               "title":"Fee credit for Global Entry or TSA PRE✓"
+            },
+            {
+               "title":"Enjoy $15 in Uber Cash for U.S. rides each month plus a bonus $20 in December*simply because you're a Platinum Card Member. That can be up to $200 in annual Uber savings."
+            },
+            {
+               "title":"5X Membership Rewards® points on prepaid hotels booked on amextravel.com"
+            },
+            {
+               "title":"5X Membership Rewards® points on flights booked directly with airlines or with American Express Travel."
+            }
+         ],
+         "earnings":[
+            {
+               "points":5,
+               "description":"5X Membership Rewards® points on flights booked directly with airlines or with American Express Travel.",
+               "category":1
+            },
+            {
+               "points":5,
+               "description":"5X Membership Rewards® points on prepaid hotels booked on amextravel.com",
+               "category":10
+            },
+            {
+               "points":1,
+               "description":"1 point per dollar spent on all other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":60000,
+            "spend":5000,
+            "currency":"points",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685fbae89bb63d3d6b256f",
+            "name":"American Express (AmEx)",
+            "full_name":"American Express (AmEx)",
+            "address":"",
+            "insurance_type":"",
+            "insurance_id":"",
+            "phone":"",
+            "website":""
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cada9c",
+         "title":"American Express Premier Rewards Gold (Personal; old card)",
+         "original_title":"American Express Premier Rewards Gold (Personal; old card)",
+         "nickname":"AMEX",
+         "fee":175,
+         "url":"https://www304.americanexpress.com/credit-card/premier-rewards-gold/26129",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"You can also transfer points to our selection of frequent traveler programs."
+            },
+            {
+               "title":"With the Membership Rewards® program, you can use points for rewards from over 500 leading brands in travel, gift cards, merchandise, or entertainment."
+            },
+            {
+               "title":"Terms and Restrictions Apply."
+            },
+            {
+               "title":"Earn 25,000 Membership Rewards® points after you spend $2,000 on purchases on your new Card in your first 3 months of Card Membership."
+            },
+            {
+               "title":"3X points for flights booked directly with airlines, 2X points at US gas stations and US supermarkets, 1X points on other purchases."
+            },
+            {
+               "title":"$0 introductory annual fee for the first year, then $175."
+            }
+         ],
+         "earnings":[
+            {
+               "points":3,
+               "description":"3 points for flights booked directly with airlines",
+               "category":1
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent at US gas stations",
+               "category":8
+            },
+            {
+               "points":2,
+               "description":"2 points per dollar spent at US supermarkets",
+               "category":16
+            },
+            {
+               "points":1,
+               "description":"1 point per dollar spent on all other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685fbae89bb63d3d6b256f",
+            "name":"American Express (AmEx)",
+            "full_name":"American Express (AmEx)",
+            "address":"",
+            "insurance_type":"",
+            "insurance_id":"",
+            "phone":"",
+            "website":""
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cae31f",
+         "title":"The Amex EveryDay℠ Preferred Credit Card from American Express",
+         "original_title":"The Amex EveryDay℠ Preferred Credit Card from American Express",
+         "nickname":"AMEX",
+         "fee":95,
+         "url":"https://www.americanexpress.com/us/credit-cards/amex-everyday-preferred",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"Use your Card 30 or more times on purchases in a billing period and get 50% more points on those purchases less returns and credits."
+            },
+            {
+               "title":"Get 15,000 Membership Rewards® points after you use your new Card to make $1,000 in purchases in your first 3 months."
+            },
+            {
+               "title":"3x points at US Supermarkets"
+            },
+            {
+               "title":"2x points at US Gas Stations"
+            },
+            {
+               "title":"1x points on other purchases"
+            }
+         ],
+         "earnings":[
+            {
+               "points":3,
+               "description":"3x points at US Supermarkets",
+               "category":16
+            },
+            {
+               "points":2,
+               "description":"2x points at US Gas Stations",
+               "category":8
+            },
+            {
+               "points":1,
+               "description":"1x points on other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":15000,
+            "spend":1000,
+            "currency":"points",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685fbae89bb63d3d6b256f",
+            "name":"American Express (AmEx)",
+            "full_name":"American Express (AmEx)",
+            "address":"",
+            "insurance_type":"",
+            "insurance_id":"",
+            "phone":"",
+            "website":""
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cadba3",
+         "title":"Business Green Rewards Card From American Express",
+         "original_title":"Business Green Rewards Card from American Express OPEN",
+         "nickname":"AMEX",
+         "fee":95,
+         "url":"https://www.americanexpress.com/us/small-business/credit-cards/business-green-rewards",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"Earn one Membership Rewards® point for each dollar you spend on eligible purchases"
+            },
+            {
+               "title":"$0 annual fee for the first year, then $95"
+            }
+         ],
+         "earnings":[
+            {
+               "points":1,
+               "description":"Earn one Membership Rewards® point for each dollar you spend on eligible purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":15000,
+            "spend":3000,
+            "currency":"points",
+            "month_period":3
+         },
+         "bank":{
+            "_id":"5e685fbae89bb63d3d6b256f",
+            "name":"American Express (AmEx)",
+            "full_name":"American Express (AmEx)",
+            "address":"",
+            "insurance_type":"",
+            "insurance_id":"",
+            "phone":"",
+            "website":""
+         }
+      },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+         "_id":"5e690b260b077d5830cae321",
+         "title":"The Business Gold Rewards Card from American Express OPEN (Old Card)",
+         "original_title":"The Business Gold Rewards Card from American Express OPEN (Old Card)",
+         "nickname":"AMEX",
+         "fee":175,
+         "url":"",
+         "foreign_fee":true,
+         "rewards_type":null,
+         "rewards":[
+            {
+               "title":"3X points on one category of your choice: Airfare purchased directly from airlines, U.S. purchases for advertising in select media, U.S. purchases at gas stations, U.S. purchases for shipping, U.S. computer hardware, software, and cloud computing purchases made directly from select providers"
+            },
+            {
+               "title":"2X points on the 4 remaining categories"
+            },
+            {
+               "title":"1X points on other purchases"
+            }
+         ],
+         "earnings":[
+            {
+               "points":3,
+               "description":"Selectable Category",
+               "category":15
+            },
+            {
+               "points":2,
+               "description":"3X points on one category of your choice: Airfare purchased directly from airlines, U.S. purchases for advertising in select media, U.S. purchases at gas stations, U.S. purchases for shipping, U.S. computer hardware, software, and cloud. 2X points on the 4 remaining categories.",
+               "category":1
+            },
+            {
+               "points":2,
+               "description":"3X points on one category of your choice: Airfare purchased directly from airlines, U.S. purchases for advertising in select media, U.S. purchases at gas stations, U.S. purchases for shipping, U.S. computer hardware, software, and cloud. 2X points on the 4 remaining categories.",
+               "category":8
+            },
+            {
+               "points":1,
+               "description":"1X points on other purchases",
+               "category":7
+            }
+         ],
+         "bonus":{
+            "amount":0,
+            "spend":0,
+            "currency":"",
+            "month_period":0
+         },
+         "bank":{
+            "_id":"5e685fbae89bb63d3d6b256f",
+            "name":"American Express (AmEx)",
+            "full_name":"American Express (AmEx)",
+            "address":"",
+            "insurance_type":"",
+            "insurance_id":"",
+            "phone":"",
+            "website":""
+         }
+      }
+   ],
+   "total_pages":145,
+   "page":1
+}
